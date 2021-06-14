@@ -10,7 +10,7 @@
 源码讲解
 ------
 网址中附有源码讲解以及我学习GBDT中查看的最容易理解的资料
-http://www.dmlearning.cn/single/a5bf33e7b2c44e499a1cb7b2d5f8fbfa.html<br>
+https://zhuanlan.zhihu.com/p/32181306<br>
 <br>
 <br>
 ![image](https://github.com/RRdmlearning/Random-Forest/blob/master/gbdt.png)
