@@ -8,7 +8,7 @@
 源码讲解
 ------
 网址中附有源码讲解以及我学习XGBoost中查看的最容易理解的资料
-http://www.dmlearning.cn/single/6787c6e70d0940c49883de41ec3d046f.html<br>
+https://zhuanlan.zhihu.com/p/32181687<br>
 <br>
 <br>
 ![image](https://github.com/RRdmlearning/Random-Forest/blob/master/xgb.png)
